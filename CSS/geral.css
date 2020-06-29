@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+@font-face{
+	font-family: "FontMatrix";
+	src: url("../Fonts/"matrix.ttf);
+}
+
+body {
+	background-color: black;
+}
+h1 {
+	font-family: 'DM Mono', monospace;
+	color: darkgreen;
+	font-size: 25pt;
+}
+h2{
+	font-family: 'Roboto Condensed', sans-serif;
+	color: green;
+	font-size: 20pt;
+}
+#matrix {
+	font-family: 'DM Mono', monospace;
+	color: darkgreen;
+	font-size: 95pt;
+}
+
+img {
+
+	width: 280pt;
+	 border-radius: 50px;
+	 padding: 25pt;
+}
+
+#mundor{
+width: 580pt;
+	 border-radius: 20px;
+	 padding: 5pt;
+}
+#camp{
+	width: 780pt;
+	 border-radius: 20px;
+	 padding: 5pt;
+}
+#agents {
+	width: 580pt;
+	 border-radius: 30px;
+	 padding: 5pt;
+}
+#mat1{
+width: 580pt;
+	 border-radius: 20px;
+	 padding: 5pt;
+}
+#m2{
+width: 580pt;
+	 border-radius: 20px;
+	 padding: 5pt;
+}
